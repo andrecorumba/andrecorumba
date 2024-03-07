@@ -4,7 +4,7 @@
 🤖 My journey in programming began at the tender age of 12, driven by curiosity and the joy of creating. This led me to pursue a degree in Computer Engineering, where I've been dedicated to applying computational thinking to overcome real-world challenges. 
 
 ### 🚀 What I'm Working On:
-🇧🇷 I've been serving as a Senior Auditor and Python Developer at the Comptroller General's Office in Brazil, an agency responsible for internal control and anti-corruption efforts.
+🇧🇷 I've been serving as a Senior Python Developer at the Comptroller General's Office in Brazil, an agency responsible for internal control and anti-corruption efforts.
 
 🚀 Currently, I'm focused on developing full-stack Python applications that harness the capabilities of Large Language Model (LLM) frameworks. These tools are crafted to assist auditors in sifting through vast arrays of documents and files, aiming to pinpoint fraudulent activities or irregularities.
 
