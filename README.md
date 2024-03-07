@@ -19,7 +19,7 @@
 - **Caches:** Redis
 - **Data Science:** Pandas, PyTorch
 - **LLM Framework:** LangChain, LLaMA Index
-- **LLM Models:** openai/gpt-4, meta/llama, facebook/seamless,
+- **LLM Models:** openai/gpt-4, meta/llama, facebook/seamless,HuggingFace Models
 - **Audio Models:** openai/whisper, alphacep/vosk-model
 - **SQL Databases:** Microsoft SQLServer, SQLite
 - **Vector Databases:** Redis-Stack, FAISS, ChromaDB
