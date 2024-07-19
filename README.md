@@ -12,16 +12,10 @@
 - **Programming & Development:** Proficient in crafting solutions that integrate advanced technologies, focusing on automation, data analysis, and software development.
 
 ### 🛠 Technologies & Tools
-- **Languages:** Python, SQL
-- **Web Framework:** FastAPI
-- **Caches:** Redis
-- **Data Science:** Pandas, PyTorch
-- **LLM Framework:** LangChain, LLaMA Index
-- **LLM Models:** openai/gpt-4, meta/llama, facebook/seamless,HuggingFace Models
-- **Audio Models:** openai/whisper, alphacep/vosk-model
-- **SQL Databases:** Microsoft SQLServer, SQLite
-- **Vector Databases:** Redis-Stack, FAISS, ChromaDB
-- **DevOps:** Linux, Docker, Docker-Compose, Google Cloud, Git
+- **Languages:** Python
+- **Libraries:** FastAPI, Pandas, PyTorch, LangChain, HuggingFace, Transformers
+- **Database:** Redis, SQLServer
+- **DevOps:** Linux, Docker, Google Cloud
 
 ### 📚 Projects
 - [Inspector](https://github.com/andrecorumba/inspector) - The Inspector is a Proof of Concept (POC) consisting of a web application and scripts, written in Python, that analyze various types of documents. It utilizes GPT-3.5 and GPT-4 language models from OpenAI to provide responses based on questions asked by the user.
