@@ -32,6 +32,12 @@ I am continually seeking to expand my knowledge and skills, diving deeper into t
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
+### 📄 Papers
+
+Paiva, E., Pereira, F., Carvalho, D., Junior, N., Oliveira, R., Bonifácio, S., Rocha, A., Oliveira, H., Cezar, F., & Junior, H. (2024). Continued pre-training of LLMs for Portuguese and Government domain: A proposal for product identification in textual purchase descriptions. Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI). https://openreview.net/pdf?id=HBDb1ybEcs
+
+Rocha, A. L. M., Rezende, M. S., & Oliveira, T. C. (2022). Alice: Desafios, resultados e perspectivas da ferramenta de auditoria contínua de compras públicas governamentais com uso de inteligência artificial. Revista da CGU, 14(26), 296-308. https://doi.org/10.36428/revistadacgu.v14i26.530
+
 ### 💬 Let's Connect
 - **Twitter:** [@andrecorumba](https://twitter.com/andrecorumba)
 - **LinkedIn:**  [in/andrecorumba/](https://www.linkedin.com/in/andrecorumba/)
