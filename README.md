@@ -31,7 +31,7 @@ I don't just use AI to help me code — I work AI-natively. Spec-driven developm
 
 ### 📄 Papers
 
-Rocha, A. L. M., Correa, T.P., CGU-Insight: Artificial intelligence at the service of internal auditing — CGU (2025) — [https://revista.cgu.gov.br/Cadernos_CGU/article/view/869](https://revista.cgu.gov.br/Cadernos_CGU/article/view/869)
+Rocha, A. L. M., Correa, T.P., CGU-Insight: Artificial intelligence at the service of internal auditing (2025). [https://revista.cgu.gov.br/Cadernos_CGU/article/view/869](https://revista.cgu.gov.br/Cadernos_CGU/article/view/869)
 
 Paiva, E., Pereira, F., Carvalho, D., Junior, N., Oliveira, R., Bonifácio, S., Rocha, A., Oliveira, H., Cezar, F., & Junior, H. (2024). Continued pre-training of LLMs for Portuguese and Government domain: A proposal for product identification in textual purchase descriptions. Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI). [https://openreview.net/pdf?id=HBDb1ybEcs](https://openreview.net/pdf?id=HBDb1ybEcs)
 
