@@ -1,36 +1,33 @@
-### Hi there 👋 I'm André Rocha [@andrecorumba](https://twitter.com/andrecorumba)
+### Hi there 👋 I'm André Rocha [@andrecorumba](https://www.linkedin.com/in/andrecorumba/)
 
-### 🌟 About Me:
-🤖 Graduated in Computer Engineering since 2003. I've been dedicated to applying computational thinking to overcome real-world challenges. 
+🚀 Full Stack Developer building AI-powered applications and orchestrating autonomous coding agents in production.
 
-### 🚀 What I'm Working On:
-🇧🇷 I've been working as a Machine Learning Engineer and Python Developer. Currently, I'm focused on developing Python applications that harness the capabilities of Large Language Model (LLM) frameworks. These tools are crafted to assist auditors in sifting through vast arrays of documents and files, aiming to pinpoint fraudulent activities or irregularities.
+I don't just use AI to help me code — I work AI-natively. Spec-driven development executed by coding agents (Claude Code), with LLM-as-Judge pipelines where independent models cross-validate every output before it ships. If the logic isn't in the spec, it doesn't exist.
 
-### 📈 Expertise and Interests:
+⚙️ How I work:
 
-- **Data Analysis & Auditing:** Expert in cross-referencing large relational databases, creating auditing trails to detect and prevent fraud in public fund management.
-- **Programming & Development:** Proficient in crafting solutions that integrate advanced technologies, focusing on automation, data analysis, and software development.
+→ Spec-Driven & Detailed — rigorous technical design before any code is written. Bounded contexts, idempotent operations, decoupled services.
 
-### 🛠 Technologies & Tools
-- **Languages:** Python
-- **Libraries:** FastAPI, Pandas, PyTorch, LangChain, HuggingFace, Transformers
-- **Database:** Redis, SQLServer
-- **DevOps:** Linux, Docker, Google Cloud
+→ AI-Powered Implementation — coding agents execute. I steer the model and own architectural oversight, feedback loops, and quality control.
 
-### 📚 Projects
-- [Inspector](https://github.com/andrecorumba/inspector) - The Inspector is a Proof of Concept (POC) consisting of a web application and scripts, written in Python, that analyze various types of documents. It utilizes GPT-3.5 and GPT-4 language models from OpenAI to provide responses based on questions asked by the user.
-- [Leia](https://github.com/andrecorumba/leia) - LeIA is an application that uses OpenAI's artificial intelligence models for audio and video transcription. You can transcribe new files or consult cases that have already been transcribed.
+→ LLM-as-Judge Quality Gates — every output runs through independent LLM review pipelines that cross-validate against the spec.
 
-### 🏆 Achievements
-- An artificial intelligence solution to analyze documents and assist Brazilian auditors in audit processes, utilizing large language models.
-- An advanced artificial intelligence solution designed for analyzing audio recordings, aiding in forensic analysis. This system leverages techniques to assist in the examination of audio data, streamlining the process of uncovering crucial insights for forensic investigations.
-- Cross-referencing data to alert about fraud detection in transactions.
+→ Autonomous Agent Orchestration — designing self-correcting architectures where specialized agents handle infra provisioning, implementation, review, and production monitoring.
 
-### 🌐 Looking Forward:
+📊 What I build: an LLM-powered platform that streamlines audit reporting and compliance analysis end-to-end, helping public-sector teams move from manual workflows to AI-native operations at scale.
 
-I am continually seeking to expand my knowledge and skills, diving deeper into the realms of machine learning, data science, and full-stack development. My goal is to create tools and applications that not only solve complex problems but also make a significant impact by improving efficiency and transparency.
+🎓 I also teach. I lead workshops and train non-technical professionals — auditors, public servants, and decision-makers — on how to apply AI to real audit work: prompt engineering, LLM tooling, and practical AI-native workflows that hold up under government-grade scrutiny.
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+🐝 Currently exploring swarms of specialized coding agents for end-to-end feature delivery — from infra provisioning on AWS / GCP to self-correction loops running in production.
+
+🛠 Tech I work with:
+
+- AI & Agents: Claude Code, LangChain, OpenAI, HuggingFace, RAG pipelines, LLM-as-Judge, prompt engineering, skills, autonomous agent orchestration, spec-driven development
+- Backend & Data: Python, FastAPI, Pandas, PyTorch, Transformers, SQL, PostgreSQL, SQLite, Redis
+- Frontend: React, Micro-frontends, Streamlit
+- Cloud & Infra: AWS, GCP, Azure, Docker, Linux, serverless / Lambda-style functions
+- Audit & Analysis: Fraud detection, pattern recognition, anomaly detection, machine learning, cross-referencing datasets
+- Leadership: Team leadership, project management, architectural instincts, pragmatic & data-driven decision making
 
 ### 📄 Papers
 
