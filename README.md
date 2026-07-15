@@ -31,9 +31,11 @@ I don't just use AI to help me code — I work AI-natively. Spec-driven developm
 
 ### 📄 Papers
 
-Paiva, E., Pereira, F., Carvalho, D., Junior, N., Oliveira, R., Bonifácio, S., Rocha, A., Oliveira, H., Cezar, F., & Junior, H. (2024). Continued pre-training of LLMs for Portuguese and Government domain: A proposal for product identification in textual purchase descriptions. Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI). https://openreview.net/pdf?id=HBDb1ybEcs
+Rocha, A. L. M., Correa, T.P., CGU-Insight: Artificial intelligence at the service of internal auditing — CGU (2025) — [https://revista.cgu.gov.br/Cadernos_CGU/article/view/869](https://revista.cgu.gov.br/Cadernos_CGU/article/view/869)
 
-Rocha, A. L. M., Rezende, M. S., & Oliveira, T. C. (2022). Alice: Desafios, resultados e perspectivas da ferramenta de auditoria contínua de compras públicas governamentais com uso de inteligência artificial. Revista da CGU, 14(26), 296-308. https://doi.org/10.36428/revistadacgu.v14i26.530
+Paiva, E., Pereira, F., Carvalho, D., Junior, N., Oliveira, R., Bonifácio, S., Rocha, A., Oliveira, H., Cezar, F., & Junior, H. (2024). Continued pre-training of LLMs for Portuguese and Government domain: A proposal for product identification in textual purchase descriptions. Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI). [https://openreview.net/pdf?id=HBDb1ybEcs](https://openreview.net/pdf?id=HBDb1ybEcs)
+
+Rocha, A. L. M., Rezende, M. S., & Oliveira, T. C. (2022). Alice: Desafios, resultados e perspectivas da ferramenta de auditoria contínua de compras públicas governamentais com uso de inteligência artificial. Revista da CGU, 14(26), 296-308. [https://doi.org/10.36428/revistadacgu.v14i26.530](https://doi.org/10.36428/revistadacgu.v14i26.530)
 
 ### 💬 Let's Connect
 - **Twitter:** [@andrecorumba](https://twitter.com/andrecorumba)
